@@ -1,4 +1,4 @@
-### Hi there 👋
+### Have a great 2021 🥳
 
 A front-end engineer returning halfway.
 
