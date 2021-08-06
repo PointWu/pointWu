@@ -1,6 +1,6 @@
 ### Have a great 2021👋
 
-Adversity reveals genius, fortune conceals it.
+Miracles happen every day.
 
 <!--
 **PointWu/pointWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
