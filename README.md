@@ -1,6 +1,6 @@
 ### Have a great 2021👋
 
-A front-end engineer returning halfway.
+Adversity reveals genius, fortune conceals it.
 
 <!--
 **PointWu/pointWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
