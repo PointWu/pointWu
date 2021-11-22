@@ -2,7 +2,6 @@
 
 There are life players and passionate fools.
 
-![info](https://github-readme-stats.vercel.app/api?username=pointWu&show_icons=true&count_private=true&hide=prs&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pointWu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
