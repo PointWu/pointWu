@@ -1,6 +1,13 @@
-### Have a great 2022👋
 
-There are life players and passionate fools.
+# ⚡️ About
+
+- Living in Beijing
+- Software engineering major, loves writing
+- Hope to open a bookstore in the future
+- Like minimalist life, like cats
+
+# 🔭 Currently
+-  Studying photography
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pointWu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
